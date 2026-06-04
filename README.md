@@ -1,8 +1,20 @@
+```html
 <h1>
   Hi, I'm Aminu! <br/>
   <a href="#">UI Designer</a> | 
   <a href="#">Front-End Engineer</a>
 </h1>
+
+<h2>🙋‍♂️ About Me</h2>
+
+<p>
+  I am a UI Designer and Front-End Engineer with a strong interest in creating clean, user-friendly, and responsive digital interfaces. 
+  I work with tools like Figma for designing wireframes, prototypes, and user interface layouts, while also using front-end technologies to bring designs to life.
+</p>
+
+<p>
+  I enjoy contributing to team-based software projects, especially in areas involving interface design, user experience, layout planning, and front-end development.
+</p>
 
 <h3>🛠️ Tech Stack & Skills</h3>
 
@@ -38,7 +50,7 @@
 
 <p>
   <b>Repository:</b><br/>
-https://github.com/AmirDamakasu/Ambulances_services-
+  [Add Repository Link Here]
 </p>
 
 <h2>🎨 UI Design & Front-End Skills</h2>
@@ -59,4 +71,28 @@ https://github.com/AmirDamakasu/Ambulances_services-
   <code>Website Layout Design</code>
   <code>Git & GitHub</code>
 </p>
+
+<h2>🤝 Connect with me</h2>
+
+<a href="https://www.linkedin.com/in/aminu-hassan-90755b412?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+  <img 
+    align="left" 
+    width="32px"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
+    style="background-color:white; padding:6px; border-radius:8px;" 
+  />
+</a>
+
+<a href="https://github.com/Ameenuhassan">
+  <img 
+    align="left" 
+    width="32px"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"
+    style="background-color:white; padding:6px; border-radius:8px;" 
+  />
+</a>
+
+<br/>
+<br/>
+<br/>
 ```
