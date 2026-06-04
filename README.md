@@ -74,7 +74,7 @@
 
 <h2>🤝 Connect with me</h2>
 
-<a href="https://www.linkedin.com/in/aminu-hassan-90755b412?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+<a href="[https://www.linkedin.com/in/aminu-hassan-90755b412?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](https://www.linkedin.com/in/aminu-hassan-854682405?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)">
   <img 
     align="left" 
     width="32px"
